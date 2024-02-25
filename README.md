@@ -1,9 +1,9 @@
 # **Desafio de Projeto**
 
 ## **Sistema Bancário com Python**
-Nivel: Básico
+Nível: Básico
 
-Conteudo: Conceitos Básicos
+Conteúdo: Conceitos Básicos
 
 ----
 ### **DESAFIO**
@@ -21,11 +21,11 @@ Criar um sistema bancário simples com as operações:
 
 * Operação de depósito
 
-Deve ser possível depositar valores positivos para a conta bancaria. A v1 do projeto trabalha apenas com 1 usuario, não sendo necessário identificar qual é o número da agência e conta bancária. Todos os depósitos devem ser armazenados em uma variável e exibidos na operação de extrato.
+Deve ser possível depositar valores positivos para a conta bancaria. A v1 do projeto trabalha apenas com 1 usuário, não sendo necessário identificar qual é o número da agência e conta bancária. Todos os depósitos devem ser armazenados em uma variável e exibidos na operação de extrato.
 
 * Operação de saque
 
-O sistema deve permitir realizar 3 saques diários com imite maximo de R$ 500,00 por saque. Caso o usuario não tenha saldo em conta, o sistema deve exibir uma mensagem informando que não será possível sacar o dinheiro por fata de saldo. Todos os saques devem ser armazenados em uma variável e exibidos na operação extrato.
+O sistema deve permitir realizar 3 saques diários com imite máximo de R$ 500,00 por saque. Caso o usuário não tenha saldo em conta, o sistema deve exibir uma mensagem informando que não será possível sacar o dinheiro por falta de saldo. Todos os saques devem ser armazenados em uma variável e exibidos na operação extrato.
 
 * Operação de extrato
 
