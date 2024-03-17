@@ -5,6 +5,8 @@ Nível: Básico
 
 Conteúdo: Conceitos Básicos
 
+Linguagem: Python
+
 ----
 ### **DESAFIO**
 
